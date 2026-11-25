@@ -5,7 +5,7 @@
 ### 1. Acceptance of Terms
 By using the WHRP Polismyndigheten Discord bot, you agree to these Terms of Service. If you do not agree, please stop using the bot.
 
-### 2. Purpose of the Bot
+### 2. Purpose of the Bot hey
 WHRP Polismyndigheten is a Discord bot developed for the fictional roleplay community West Halmstad Roleplay (WHRP).
 
 The bot provides tools and features intended to support the community, its members and its staff.
